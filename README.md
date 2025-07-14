@@ -5,21 +5,6 @@
 
 This project uses **Artificial Intelligence (AI)** to check if a student's desk is set up and ready for studying by analyzing objects on the desk.
 
-It uses **Azure Computer Vision API** to automatically detect items like:
-- 🖊️ Pen
-- 📘 Book or Notebook
-- 📱 Mobile phone
-- 🍼 Water bottle
-- 💻 Laptop
-
-Based on what items are present, the app decides whether the student is ready to study or not.
-
-### 🧪 Example:
-- If the image has **pen + book** → ✅ "You're ready to study!"
-- If the image has **mobile + chips** → ⚠️ "Distraction detected!"
-
----
-
 ## 🎯 Purpose of the Project
 
 - Promote focus and discipline in students.
